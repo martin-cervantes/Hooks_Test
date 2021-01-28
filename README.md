@@ -15,7 +15,7 @@ Hooks allow functional components to also have a lifecycle as well as a state. T
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://mcervantes71.githup.io/Hooks_Test/index.html)
+[Live Demo Link](https://mcervantes71.github.io/Hooks_Test/index.html)
 
 ## :computer: Getting Started
 
